@@ -1,4 +1,4 @@
-<ht/ml>
+<html>
   <head>
     <title>Welcome to my web page</title>
   </head>
@@ -17,7 +17,7 @@
             </p>
 
             <p>select your favourite music service <br /> <!--Checkbox control-->
-                <input type ="Checkbox" name="service" value="iTunes"/>iTunes <br />
+                <input type ="Checkbox" name="#service" value="iTunes"/>iTunes <br />
                 <input type ="Checkbox" name="service" value="Sportify"/>Sportify <br />
                 <input type ="Checkbox" name="service" value="Pandora"/>Pandora <br />
                 <input type ="Checkbox" name="service" value="FishFM"/>Fish FM <br />
