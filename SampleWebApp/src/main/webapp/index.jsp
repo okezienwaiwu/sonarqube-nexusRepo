@@ -1,9 +1,9 @@
-<>
+<html>
   <head>
     <title>Welcome to my web page</title>
   </head>
   <body bgcolor="#7FFF00">
-    <h1>Hello from RealCloud & devops expert Again</h1>
+    <h1>Hello from RealCloud & devops expert Again
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
             <p>Let us learn something about your music lifestyle </p> <!--This control is for mutplie line comment-->
@@ -104,5 +104,5 @@
         <input type="search" name="search" placeholder="Enter search keyword" />
         <input type="submit" value="Search" />
 
-  </>
+  </body>
 </html>
