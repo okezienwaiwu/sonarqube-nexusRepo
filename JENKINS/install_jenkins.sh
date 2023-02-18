@@ -1,3 +1,5 @@
+#!bin/bash
+
 sudo apt update
 sudo apt install openjdk-11-jdk -y
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 62A9756BFD780C377CF24BA8FCEF32E745F2C3D5
