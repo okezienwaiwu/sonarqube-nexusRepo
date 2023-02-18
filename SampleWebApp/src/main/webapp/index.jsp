@@ -5,7 +5,7 @@
   <body bgcolor="#7FFF00">
     <h1>Hello from RealCloud & devops expert Again</h1>
     <!--Form declaration. Must have an action attribute -->
-        <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
+        <form action="C:/JonnyJava/FirstJava.html///profile.html" method="post">
             <p>Let us learn something about your music lifestyle </p> <!--This control is for mutplie line comment-->
             <textarea name="comments" cols="30" rows="5"></textarea>
 
@@ -17,7 +17,7 @@
             </p>
 
             <p>select your favourite music service <br /> <!--Checkbox control-->
-                <input type ="Checkbox" name="#service" value="iTunes"/>iTunes <br />
+                <input type ="Checkbox" name="service" value="iTunes"/>iTunes <br />
                 <input type ="Checkbox" name="service" value="Sportify"/>Sportify <br />
                 <input type ="Checkbox" name="service" value="Pandora"/>Pandora <br />
                 <input type ="Checkbox" name="service" value="FishFM"/>Fish FM <br />
